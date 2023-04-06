@@ -1,4 +1,4 @@
 function alert(){
-  Swal.fire('Solicitação enviada')
+  Swal.fire('Sucesso', 'Solicitação enviada', 'success')
 }
 alert();
