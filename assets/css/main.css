@@ -22,6 +22,18 @@ input, textarea {
   padding-left: 1rem;
 } */
 
+.btnLogin {
+  width: 335px;
+  height: 56px;
+  background: #2D1CC6;
+  border-radius: 16px;
+  border: none;
+  color: #fff;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+}
+
  #titulo {
   font-family: sans-serif;
   color: rgb(29, 9, 206);
