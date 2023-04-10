@@ -1,5 +1,5 @@
 form {
-  width: 600px;
+  width: 400px;
   margin: 0 auto;
   padding: 20px;
   background-color: #f0f0f0;
@@ -13,52 +13,16 @@ label {
   color: blue;
 }
 
-input[type="text"],
-input[type="password"],
-input[type="date"],
-textarea {
-  width: 100%;
-  padding: 10px;
-  border: none;
-  border-radius: 5px;
-  margin-bottom: 20px;
-}
+input, textarea {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 14px;
+  color: #868696;
+  padding-left: 1rem;
+} */
 
-button[type="submit"] {
-  background-color: #4CAF50;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-}
-
-button[type="submit"]:hover {
-  background-color: #3e8e41;
-}
-
-#titulo {
-  font-family: sans-serif;
-  color: #380B61;
-  margin-left: 7%;
-}
-
-#subtitulo {
-  font-family: sans-serif;
-  font-size: small;
-  color: #380B61;
-  margin-left: 10%;
-}
-
-.container {
-  width: 50%;
-  /* Defina a largura do contêiner */
-  margin: 0 auto;
-  /* Centralize o contêiner na página */
-  margin-left: 125px;
-}
-
-#titulo {
+ #titulo {
   font-family: sans-serif;
   color: rgb(29, 9, 206);
   margin-left: 45%;
@@ -70,4 +34,4 @@ button[type="submit"]:hover {
   color: #380B61;
   margin-left: 46%;
   margin-top: -18px;
-}
+} 
