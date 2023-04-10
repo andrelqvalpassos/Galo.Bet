@@ -13,16 +13,17 @@ label {
   color: blue;
 }
 
-input, textarea {
+input,
+textarea {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 14px;
   color: #868696;
   padding-left: 1rem;
-} */
+}
 
-.btnLogin {
+*/ .btnLogin {
   width: 335px;
   height: 56px;
   background: #2D1CC6;
@@ -34,7 +35,7 @@ input, textarea {
   font-size: 26px;
 }
 
- #titulo {
+#titulo {
   font-family: sans-serif;
   color: rgb(29, 9, 206);
   margin-left: 45%;
@@ -46,4 +47,13 @@ input, textarea {
   color: #380B61;
   margin-left: 46%;
   margin-top: -18px;
-} 
+}
+
+.btnsolicitar {
+  width: 335px;
+  height: 56px;
+  background: #2D1CC6;
+  border-radius: 16px;
+  border: none;
+  color: #fff;
+}
